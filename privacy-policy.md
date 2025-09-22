@@ -1,7 +1,7 @@
 # Política de Privacidad de Bartelo
 
 **Vigente desde:** 21 de September de 2025  
-**Controlador:** Freedom Telecom & Soluciones SRL (“Bartelo”, “nosotros”, “nuestra App”)
+**Controlador:** Rody Diaz (“Bartelo”, “nosotros”, “nuestra App”)
 
 Bartelo respeta tu privacidad y se compromete a proteger tu información. Esta política explica qué datos tratamos, para qué, durante cuánto tiempo y cómo puedes ejercer tus derechos.
 
@@ -104,7 +104,7 @@ Podemos actualizar esta Política para reflejar mejoras o cambios regulatorios. 
 
 ## 12) Contacto
 
-**Responsable:** Freedom Telecom & Soluciones SRL (Bartelo)  
-**Correo:** soporte@bartelo.com.do  
-**Teléfono:** +1 (829) 520-3551  
+**Responsable:** Rody Diaz (Bartelo)  
+**Correo:** rodydiaz849@hotmail.com  
+**Teléfono:** +1 (829) 321*8865  
 **Dirección:** Guayubín, Monte Cristi, República Dominicana
