@@ -87,8 +87,8 @@ Puedes ejercer tus derechos de **acceso**, **rectificación**, **eliminación**,
 También puedes retirar permisos (contactos, micrófono, fotos, notificaciones) desde los ajustes de la App o del sistema.  
 
 Para solicitudes o eliminar tu cuenta:  
-📧 **soporte@bartelo.com.do**  
-📞 **+1 (829) 520-3551**  
+📧 **soporte@bartelo.do**  
+📞 **+1 (829) 321-8865**  
 
 Podemos pedir verificación de identidad.  
 
